@@ -1,4 +1,4 @@
-# Kafka
+<h1 align="center">Kafka</h1>
 It enables users to collect, store, and process data to build real-time event-driven applications.
 
 ### Kafka with docker-compose
