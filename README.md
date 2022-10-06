@@ -59,3 +59,4 @@ kafka-topics.sh --describe --zookeeper zookeeper:2181 --topic test-3-1
 To learn more about it: 
 
 https://towardsdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way-4ceb00817d8b
+
